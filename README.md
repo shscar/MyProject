@@ -1,4 +1,4 @@
 #MyProject
 repository baru 
 aku
-kakkak
+Belajar Reset dan Revert
