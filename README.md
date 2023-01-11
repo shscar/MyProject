@@ -3,4 +3,4 @@ repository baru
 aku
 Belajar Reset dan Revert111
 
-kk
+kk https://github.com/microsoft/vscode
