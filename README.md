@@ -1,6 +1,3 @@
 #MyProject
-repository baru 
-aku
-Belajar Reset dan Revert111
-
-kk https://github.com/microsoft/vscode
+Repository baru dari PC lokal
+Belajar Reset dan Revert
